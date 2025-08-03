@@ -16,8 +16,8 @@ GMM_Anomaly_Detection/
 ├── src/                # 코드
 ├── data/               # 원본 데이터 (업로드 제외)
 ├── main.py             # 실행 진입점
-├── notebooks/          # 시각화 노트북 (선택)
-├── report/             # 보고서 (선택)
+├── notebooks/          # 시각화 노트북
+├── report/             # 보고서
 ├── requirements.txt
 ├── .gitignore
 └── README.md
